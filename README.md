@@ -1,11 +1,11 @@
 # Abdullah Dlakic
 
-DevOps intern at Bloomteq, Sarajevo. I provision and run AWS for an operations portal: Terraform, GitHub Actions with OIDC, Lambda, and an EventBridge/SQS backbone.
+DevOps intern at Bloomteq. Before that, PowerCommerce internship, 2025.
 
-## Public
+## Work
 
-**[lattice](https://github.com/adlakic/lattice)** is the GitOps side of the same work. Checkout and ledger, Helm per environment, Argo CD, Kyverno, the same rules in CI with Conftest, and SLO burn alerts. The processes run locally. Prod Terraform is validated in CI.
+[soundwave](https://github.com/Powercommerce-Internship-2025/soundwave-Abdullah) — music catalog. Register, browse albums, like them. React, Express, MongoDB.
 
-The portal infrastructure stays in a private repository.
+[lattice](https://github.com/adlakic/lattice) — GitOps around a checkout and ledger pair. Helm, Argo CD, Kyverno, Conftest, Terraform for the AWS account boundary.
 
 adlakic1@etf.unsa.ba
